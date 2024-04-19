@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 35,
+    "articles": [
+    {
+    "source": {
+    "id": "the-washington-post",
+    "name": "The Washington Post"
+    },
+    "author": "Jeff Stein",
+    "title": "U.S. targets Iran's drone production in retaliation for Israel attack - The Washington Post - The Washington Post",
+    "description": "Treasury announces new sanctions on Tehran but seeks to contain broader conflict.",
+    "url": "https://www.washingtonpost.com/business/2024/04/18/iran-treasury-drone-sanctions/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CZERZWU4QJZJAAZ3JIKGKKJOVI_size-normalized.JPG&w=1440",
+    "publishedAt": "2024-04-18T16:12:07Z",
+    "content": "The Treasury Department on Thursday announced new sanctions on Iran in retaliation for its recent aerial attack against Israel, as the Biden administration seeks an economic rather than military resp… [+3236 chars]"
+    },
+    {
+    "source": {
+    "id": "axios",
+    "name": "Axios"
+    },
+    "author": "Axios",
+    "title": "Conservatives corner Mike Johnson in House floor confrontation - Axios",
+    "description": null,
+    "url": "https://www.axios.com/2024/04/18/mike-johnson-gaetz-motion-to-vacate-ukraine",
+    "urlToImage": null,
+    "publishedAt": "2024-04-18T16:06:32Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "BBC News"
+    },
+    "author": null,
+    "title": "Israel and Hezbollah: Fears of escalation after flurry of attacks - BBC.com",
+    "description": "A spate of strikes and retaliations has left dead and injured on both sides of the border.",
+    "url": "https://www.bbc.com/news/world-middle-east-68845281",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10867/production/_133178676_mediaitem133178675.jpg",
+    "publishedAt": "2024-04-18T15:09:25Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "10TV"
+    },
+    "author": "10TV Web Staff",
+    "title": "Tornado touches down in central Ohio - 10TV",
+    "description": "Most of the storm damage was confined to homes on Fancher Road, officials said.",
+    "url": "https://www.10tv.com/article/weather/severe-weather/ohio-tornado-confirmed-columbus-area/530-8ef92cb4-3f2c-487a-9673-d7ecc8050718",
+    "urlToImage": "https://media.tegna-media.com/assets/WBNS/images/be67b997-e32a-4399-ab86-522b7884c353/be67b997-e32a-4399-ab86-522b7884c353_1140x641.jpg",
+    "publishedAt": "2024-04-18T15:02:00Z",
+    "content": "DELAWARE COUNTY, Ohio The National Weather Service confirmed that an EF1 tornado touched down in Delaware County on Wednesday.\r\nThe tornado occurred in the far southeast part of the county in Harlem … [+950 chars]"
+    },
+    {
+    "source": {
+    "id": "fox-news",
+    "name": "Fox News"
+    },
+    "author": "Elizabeth Elkind",
+    "title": "GOP rebels derail Johnson's border security pitch over fury at $95B foreign aid plan - Fox News",
+    "description": "A late Wednesday evening meeting to advance a border security bill through the House Rules Committee ended amid conservative rebels' objections to the measure and Speaker Johnson's foreign aid bill.",
+    "url": "https://www.foxnews.com/politics/gop-rebels-derail-johnsons-border-security-pitch-fury-95b-foreign-aid-plan",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/11/roy-johnson-norman.jpg",
+    "publishedAt": "2024-04-18T14:23:00Z",
+    "content": "A meeting to advance Speaker Mike Johnsons latest border security bill abruptly ended on Wednesday night without a vote on whether the measure will hit the House floor.\r\n\"Sorry, not sorry, for opposi… [+3488 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Financial Times"
+    },
+    "author": null,
+    "title": "Iran warns of shift in nuclear stance if Israel threatens atomic sites - Financial Times",
+    "description": "Revolutionary Guards issue warning as US announces new sanctions",
+    "url": "https://www.ft.com/content/c73b99ec-cd3f-49be-8024-6faf369b58e1",
+    "urlToImage": null,
+    "publishedAt": "2024-04-18T14:13:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "[Removed]"
+    },
+    "author": null,
+    "title": "[Removed]",
+    "description": "[Removed]",
+    "url": "https://removed.com",
+    "urlToImage": null,
+    "publishedAt": "1970-01-01T00:00:00Z",
+    "content": "[Removed]"
+    },
+    {
+    "source": {
+    "id": "associated-press",
+    "name": "Associated Press"
+    },
+    "author": "LARRY NEUMEISTER, JAKE OFFENHARTZ",
+    "title": "Trump trial jury selection process follows a familiar pattern with an unpredictable outcome - The Associated Press",
+    "description": "The jury selection process at the historic criminal trial of former President Donald Trump has resumed and can already credit modern technology for shaping the eventual panel. Several potential jurors whose social media footprints raised alarms have been cut.…",
+    "url": "https://apnews.com/article/trump-hush-money-criminal-trial-jurors-e47b0494de7688bde0e877ccb90aeca2",
+    "urlToImage": "https://dims.apnews.com/dims4/default/5a6af89/2147483647/strip/true/crop/5088x2862+0+265/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F32%2F80%2F79fab9d96ef4764b8b3c1dbc1d99%2F9fe5b9d0a8714e45ac1408068d9afbd3",
+    "publishedAt": "2024-04-18T14:02:00Z",
+    "content": "NEW YORK (AP) When the first batch of potential jurors was brought in for Donald Trumps criminal trial this week, all the lawyers had to go on to size them up at first were their names and the answer… [+6474 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Diana Olick",
+    "title": "March homes sales dropped despite a surge in supply. Here's why. - CNBC",
+    "description": "The median price of an existing home sold in March was $393,500, up 4.8% from the year before.",
+    "url": "https://www.cnbc.com/2024/04/18/march-homes-sales-dropped-despite-a-surge-in-supply-heres-why.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107217876-1680192968842-gettyimages-1246866587-NYC_SUBURBS_REAL_ESTATE.jpeg?v=1680520183&w=1920&h=1080",
+    "publishedAt": "2024-04-18T14:00:03Z",
+    "content": "Sales of previously-owned homes dropped 4.3% in March compared with February, to a seasonally adjusted, annualized rate of 4.19 million units, according to the National Association of Realtors. Sales… [+2145 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "[Removed]"
+    },
+    "author": null,
+    "title": "[Removed]",
+    "description": "[Removed]",
+    "url": "https://removed.com",
+    "urlToImage": null,
+    "publishedAt": "1970-01-01T00:00:00Z",
+    "content": "[Removed]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Sports Illustrated"
+    },
+    "author": "Matt Verderame",
+    "title": "2024 NFL Mock Draft: History Made With QBs Going in First Four Picks - Sports Illustrated",
+    "description": "Six signal-callers are taken with the first 13 selections along with 10 offensive linemen, five receivers and five corners in the first round.",
+    "url": "https://www.si.com/nfl/2024/04/18/nfl-mock-draft-first-round-quarterbacks-receivers-dominate-first-round",
+    "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,w_2262,h_1272,x_136,y_176/images/ImagnImages/mmsport/si-temp/01hvmyvqryzsc9rjvm8d",
+    "publishedAt": "2024-04-18T13:21:29Z",
+    "content": "On Tuesday, I unveiled my NFL all-trades mock draft\r\n. So now Im going to give you all the true results of the 2024 NFL draft.\r\nYoure welcome.\r\nBelow, Im going to dive into the first round of the upc… [+11991 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Quartz India"
+    },
+    "author": "William Gavin",
+    "title": "Tesla CEO Elon Musk apologizes for 'incorrectly low' severance packages after mass layoffs - Quartz",
+    "description": "The electric vehicle maker laid off at least 14,000 workers as it continued a brutal start to 2024",
+    "url": "https://qz.com/tesla-elon-musk-apologizes-layoffs-severance-1851418616",
+    "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/c03df9da907640ea3f3b70760083658f.jpg",
+    "publishedAt": "2024-04-18T12:58:00Z",
+    "content": "Read more: Tesla stock just hit a new 52-week low after analysts said investors may start tossing in the towel\r\nTesla CEO Elon Musk said some severance packages sent to some of the more than 14,000 T… [+3221 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Yahoo Entertainment"
+    },
+    "author": "Davey Alba and Julia Love",
+    "title": "Google Fires 28 Workers Protesting $1.2 Billion Israeli Contract - Yahoo Finance",
+    "description": "(Bloomberg) -- Alphabet Inc.’s Google has fired 28 employees after they were involved in protests against Project Nimbus, a $1.2 billion joint contract with ...",
+    "url": "https://finance.yahoo.com/news/google-fires-workers-protesting-1-023834200.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/pRwR_EZzLi5nFbBZhygs0Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/bloomberg_technology_68/5e754744b0731dba8b7b45b2ac4c342c",
+    "publishedAt": "2024-04-18T12:48:04Z",
+    "content": "(Bloomberg) -- Alphabet Inc.s Google has fired 28 employees after they were involved in protests against Project Nimbus, a $1.2 billion joint contract with Amazon.com Inc. to provide the Israeli gove… [+4862 chars]"
+    },
+    {
+    "source": {
+    "id": "usa-today",
+    "name": "USA Today"
+    },
+    "author": "Emily DeLetter",
+    "title": "Indonesia volcano: Ruang erupts, triggering tsunami warnings - USA TODAY",
+    "description": "Officials warned part of the 750-foot Ruang volcano could collapse into the water and trigger a tsunami.",
+    "url": "https://www.usatoday.com/story/news/world/2024/04/18/indonesia-ruang-volcano-erupts-tsunami-risk/73367035007/",
+    "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/04/18/USAT/73367055007-2147882736.jpg?crop=3499,1968,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
+    "publishedAt": "2024-04-18T12:30:22Z",
+    "content": "Airport service has been stopped, people have been evacuated and officials are warning of a tsunami risk after a series of violent eruptions this week from an Indonesian volcano.\r\nThe 750-foot Ruang … [+1339 chars]"
+    },
+    {
+    "source": {
+    "id": "ars-technica",
+    "name": "Ars Technica"
+    },
+    "author": "Stephen Clark",
+    "title": "All the pieces are in place for the first crew flight of Boeing's Starliner - Ars Technica",
+    "description": "“This is a test flight, and a complicated one at that.\"",
+    "url": "https://arstechnica.com/space/2024/04/all-the-pieces-are-in-place-for-the-first-crew-flight-of-boeings-starliner/",
+    "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/53660583974_3d1faa0c22_k-760x380.jpg",
+    "publishedAt": "2024-04-18T12:26:23Z",
+    "content": "Enlarge/ Technicians inside United Launch Alliance's Vertical Integration Facility connect Boeing's Starliner spacecraft to the top of its Atlas V rocket Tuesday.\r\n43\r\nGround teams on Florida's Space… [+7159 chars]"
+    },
+    {
+    "source": {
+    "id": "cbs-news",
+    "name": "CBS News"
+    },
+    "author": "Holly Williams",
+    "title": "Prince William returns to public duty as Kate continues cancer treatment - CBS News",
+    "description": "William, the Prince of Wales, spent weeks out of public view to be there for Kate as she undergoes treatment for an unspecified cancer.",
+    "url": "https://www.cbsnews.com/news/prince-william-returns-public-princess-kate-middleton-continues-cancer-treatment/",
+    "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/04/18/6bff2f1e-600a-421c-8a26-dd1d29445a01/thumbnail/1200x630g2/12f3e2d0237d790caa7d0d730e89f4ea/prince-william-2147898791.jpg?v=55c0f85ebcd2b956528d9c6f5a7e8871",
+    "publishedAt": "2024-04-18T12:08:32Z",
+    "content": "London — Prince William made his first public appearance Thursday since his wife Catherine, the Princess of Wales, shared her cancer diagnosis last month. Kate, as she's usually known, is undergoing … [+2129 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Page Six"
+    },
+    "author": "Riley Cardoza",
+    "title": "Sydney Sweeney's acting coach defends her 'serious' skills after producer Carol Baum's 'attack' - Page Six",
+    "description": "“When taking feedback or critique, she processes it, uses her acting technique and makes the adjustment,” Scott Sedita gushed of the “Euphoria” star.",
+    "url": "https://pagesix.com/2024/04/18/entertainment/sydney-sweeneys-acting-coach-defends-her-after-producer-carol-baums-attack/",
+    "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2024/04/sydney-sweeney-71.jpg?quality=75&strip=all&w=1024",
+    "publishedAt": "2024-04-18T11:49:00Z",
+    "content": "Sydney Sweeney’s former acting coach is in her corner.\r\nScott Sedita came to the “Euphoria” star’s defense after producer Carol Baum recently went viral for hating on Sweeney’s skills.\r\n“Shes been th… [+2530 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Athletic"
+    },
+    "author": "Chris Branch",
+    "title": "The fallout from Jontay Porter’s lifetime NBA ban, plus Champions League madness - The Athletic",
+    "description": "Did the NBA actually get lucky in the Jontay Porter situation?",
+    "url": "https://theathletic.com/5425069/2024/04/18/jontay-porter-lifetime-nba-ban-the-pulse/",
+    "urlToImage": "https://cdn.theathletic.com/app/uploads/2024/04/18061923/GettyImages-2084809770.jpg",
+    "publishedAt": "2024-04-18T11:41:00Z",
+    "content": "The Pulse Newsletter | This is The Athletics daily sports newsletter. Sign up here to receive The Pulse directly in your inbox.\r\nGood morning! I hope you make the real playoffs today.\r\nWhile You Were… [+5577 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Forbes"
+    },
+    "author": "Billy Bambrough",
+    "title": "JPMorgan Joins Goldman Sachs In Serious Bitcoin Halving Price Warning - Forbes",
+    "description": "As bitcoin hurtles toward its next supply cut—known as a halving—Goldman Sachs﻿ analysts have issued a stark price warning...",
+    "url": "https://www.forbes.com/sites/digital-assets/2024/04/18/goldman-sachs-issues-stark-bitcoin-halving-price-warning/",
+    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66015ab5b02fa75e8f8870e6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+    "publishedAt": "2024-04-18T11:31:22Z",
+    "content": "04/18 update below. This post was originally published on April 17\r\nBitcoinBTC\r\n has struggled to gain ground in recent weeks despite leaks confirming rumors China could be about to blow up the bitco… [+4304 chars]"
+    },
+    {
+    "source": {
+    "id": "ars-technica",
+    "name": "Ars Technica"
+    },
+    "author": "Benj Edwards",
+    "title": "OpenAI winds down AI image generator that blew minds and forged friendships in 2022 - Ars Technica",
+    "description": "How a group of friends found themselves at the center of a fierce debate about the future of art.",
+    "url": "https://arstechnica.com/information-technology/2024/04/when-ai-images-were-mind-blowing-early-users-recall-the-first-days-of-dall-e-2/",
+    "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/dalle_hero_2-760x380.jpg",
+    "publishedAt": "2024-04-18T11:00:46Z",
+    "content": "Enlarge/ An AI-generated image from DALL-E 2 created with the prompt \"A painting by Grant Wood of an astronaut couple, american gothic style.\"\r\n39\r\nWhen OpenAI's DALL-E 2 debuted on April 6, 2022, th… [+5124 chars]"
+    }
+    ]
+    }
